@@ -1,0 +1,19 @@
+# Site settings
+name: 陈鹏
+location: 成都
+company: IBM
+position: 前端开发工程师
+github: https://github.com/suifengpiao20120501
+gitee: https://gitee.com/chen-peng-20120501
+phone: 13668156737
+email: chenpeng20120501@foxmail.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
